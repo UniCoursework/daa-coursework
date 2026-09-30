@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\daa-coursework\obj\Release\net9.0\daa-coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\daa-coursework\obj\Release\net9.0\daa-coursework.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\daa-coursework\obj\Release\net9.0\daa-coursework.AssemblyInfo.cs
+C:\Users\PC\source\repos\daa-coursework\obj\Release\net9.0\daa-coursework.csproj.CoreCompileInputs.cache

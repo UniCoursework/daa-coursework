@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\daa-coursework\bin\Debug\net8.0\daa-coursework.exe
+C:\Users\PC\source\repos\daa-coursework\bin\Debug\net8.0\daa-coursework.deps.json
+C:\Users\PC\source\repos\daa-coursework\bin\Debug\net8.0\daa-coursework.runtimeconfig.json
+C:\Users\PC\source\repos\daa-coursework\bin\Debug\net8.0\daa-coursework.dll
+C:\Users\PC\source\repos\daa-coursework\bin\Debug\net8.0\daa-coursework.pdb
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\daa-coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\daa-coursework.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\daa-coursework.AssemblyInfo.cs
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\daa-coursework.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\daa-coursework.dll
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\refint\daa-coursework.dll
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\daa-coursework.pdb
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\daa-coursework.genruntimeconfig.cache
+C:\Users\PC\source\repos\daa-coursework\obj\Debug\net8.0\ref\daa-coursework.dll
